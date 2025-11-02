@@ -45,11 +45,3 @@ It uses **machine learning algorithms** to classify whether a person is likely t
 | Property_Area | Urban / Semiurban / Rural |
 | Loan_Status | Target variable (Y/N) |
 
----
-
-### ⚙️ Installation & Setup
-
-Clone the repository:
-```bash
-git clone https://github.com/<your-username>/Home_Loan_Prediction.git
-cd Home_Loan_Prediction
